@@ -2,12 +2,9 @@
 
 /**
  * get_flags - Calculates active flags
-<<<<<<< HEAD
  * By Protee and Isaac
  * @format: Formatted string in which to print the arguments
-=======
  * @format: Formated string in which to print the arguments
->>>>>>> 3e101fb51fbe92672692bf7551d5e485ea1f2d42
  * @i: take a parameter.
  * Return: Flags:
  */
